@@ -1,4 +1,4 @@
-# CyanInstitute-Fake Website
+# Cyan Institute-Fake Website
 
 Please check out a full display of this website at:
 
